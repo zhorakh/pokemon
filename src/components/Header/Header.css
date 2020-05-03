@@ -1,0 +1,8 @@
+.header {
+  height: 100px;
+  background: #1f1f1f; }
+  .header .logo {
+    text-align: center; }
+    .header .logo img {
+      width: 250px;
+      padding: 5px; }
